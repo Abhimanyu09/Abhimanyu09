@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abhimanyu09
 - 👀 I’m interested in Soft Condensed Matter Physics
 - 🌱 I’m currently learning how to simulate fluids
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: abhimanyu.nowbagh@gmail.com
 
 <!---
